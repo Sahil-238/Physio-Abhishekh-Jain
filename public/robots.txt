@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://physio-abhishek-jain.example.com/sitemap.xml
+
